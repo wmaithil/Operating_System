@@ -78,18 +78,6 @@ Finish = []
 for i in range(n):
 	Finish.append(0)
 
-########################
-
-#checking few things, ignore those codes
-
-print(Allocation)
-Allocation[0] = Work
-print(Allocation)
-
-#########################
-
-#safety check after Pi request
-
 Sequence = []
 
 for i in range(n):
